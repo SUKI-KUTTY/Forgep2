@@ -1,0 +1,6 @@
+{
+  "name": "Kaveri Silks",
+  "description": "Royal South Indian luxury bridal silks, designer kurtis, handcrafted Aari blouses, and heritage lehengas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
